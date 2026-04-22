@@ -4,7 +4,7 @@ public class Ejercicio10 {
     public static void ejecutar() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la contraseña a evaluar: ");
-        String password = scanner.nextLine();
+        String password = scanner.next();
 
         if (esSegura(password)) {
             System.out.println("Clave segura");
