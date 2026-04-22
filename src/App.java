@@ -16,20 +16,20 @@ public class App {
                 Ejercicio3.ejecutar();
             case 4:
                 Ejercicio4.ejecutar();
-            // case 5:
-            //     Ejercicio5.ejecutar();
-            // case 6:
-            //     Ejercicio6.ejecutar();
-            // case 7:
-            //     Ejercicio7.ejecutar();
-            // case 8:
-            //     Ejercicio8.ejecutar();
-            // case 9:
-            //     Ejercicio9.ejecutar();
-            // case 10:
-            //     Ejercicio10.ejecutar();
-            // case 11:
-            //     Ejercicio11.ejecutar();
+            case 5:
+                Ejercicio5.ejecutar();
+            case 6:
+                Ejercicio6.ejecutar();
+            case 7:
+                Ejercicio7.ejecutar();
+            case 8:
+                Ejercicio8.ejecutar();
+            case 9:
+                Ejercicio9.ejecutar();
+            case 10:
+                Ejercicio10.ejecutar();
+            case 11:
+                Ejercicio11.ejecutar();
             // case 12:
             //     Ejercicio12.ejecutar();
             // case 13:
